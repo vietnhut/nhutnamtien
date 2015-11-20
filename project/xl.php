@@ -9,5 +9,8 @@
 <?php
 echo "Tong 2 so la: ".($_POST['txt1']+$_POST['txt2']);
 ?>
+
+
+123uyejmd?m?myuktyukt6ik?
 </body>
 </html>
